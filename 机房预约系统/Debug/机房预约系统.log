@@ -1,0 +1,13 @@
+﻿  administrator.cpp
+C:\Users\cuber\Desktop\Practice\CodeProject\机房预约系统\代码\administrator.cpp(258,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\cuber\Desktop\Practice\CodeProject\机房预约系统\代码\administrator.cpp(266,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\cuber\Desktop\Practice\CodeProject\机房预约系统\代码\administrator.cpp(274,21): warning C4018: “<”: 有符号/无符号不匹配
+  appointFile.cpp
+  student.cpp
+C:\Users\cuber\Desktop\Practice\CodeProject\机房预约系统\代码\student.cpp(87,25): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\cuber\Desktop\Practice\CodeProject\机房预约系统\代码\student.cpp(221,35): warning C4018: “<=”: 有符号/无符号不匹配
+  teacher.cpp
+C:\Users\cuber\Desktop\Practice\CodeProject\机房预约系统\代码\teacher.cpp(95,33): warning C4018: “<=”: 有符号/无符号不匹配
+  机房预约系统.cpp
+  正在生成代码...
+  机房预约系统.vcxproj -> C:\Users\cuber\Desktop\Practice\CodeProject\机房预约系统\Debug\机房预约系统.exe
